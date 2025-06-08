@@ -1,0 +1,25 @@
+# fintech_app_reviews/.gitignore
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.ipynb_checkpoints/
+
+# Data
+data/raw_reviews.csv
+data/cleaned_reviews.csv
+data/analyzed_reviews.csv
+data/sql_dump.sql
+
+# Database (Oracle XE specific)
+*.db
+*.sqlite3
+wallet/
+
+# Reports
+reports/*.pdf
+reports/visualizations/
