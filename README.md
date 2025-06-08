@@ -109,13 +109,7 @@ Use `matplotlib` or `seaborn` to generate:
 
 ---
 
-## 📅 Deadlines
-
-- **June 08, 2024** – Interim submission (2 pages, GitHub link with Task 1)
-- **June 10, 2024** – Final submission (7 pages, all tasks + plots)
-
----
 
 ## 💬 Contact
 
-Questions? Reach out via Slack: `#all-week-2` or contact your facilitators.
+Questions? Reach out via email: destaget@gmail.com or [`#all-week-2`](https://github.com/desta-getaw/Customer-Experience-Analytics-for-Fintech-Apps).
