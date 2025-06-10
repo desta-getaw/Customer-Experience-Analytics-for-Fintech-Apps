@@ -1,0 +1,13 @@
+review_id,bank,review_text,processed_text,sentiment_score,sentiment_label,identified_themes,top_keywords
+1,CBE,I can't log in! The password reset is not working at all. Worst app.,not log password reset work bad app,-0.6588,negative,"['Account Access Issues', 'App Stability & Reliability']","['work bad', 'work', 'password']"
+2,CBE,The new UI is beautiful and so easy to navigate. Love it!,new ui beautiful easy navigate love,0.9115,positive,['User Interface & Experience (UI/UX)'],"['ui', 'ui beautiful', 'navigate']"
+3,BOA,My transfer has been stuck for three hours. This is so slow.,transfer stick hour slow,-0.25,negative,['Transaction Performance'],"['transfer stick', 'transfer', 'stick hour']"
+4,BOA,The customer support team was very helpful in resolving my issue.,customer support team helpful resolve issue,0.8251,positive,['Customer Support'],"['support', 'team helpful', 'team']"
+5,Dashen,This app crashes every time I try to make a payment. Useless.,app crash time try payment useless,-0.4215,negative,"['Transaction Performance', 'App Stability & Reliability']","['useless', 'try payment', 'try']"
+6,Dashen,I wish you would add a dark mode feature. It would be great for night use.,wish add dark mode feature great night use,0.7783,positive,['Feature Request'],"['wish add', 'use', 'wish']"
+7,CBE,The fingerprint login feature frequently fails.,fingerprint login feature frequently fail,-0.4215,negative,"['Transaction Performance', 'Feature Request', 'Account Access Issues']","['login feature', 'frequently', 'fingerprint login']"
+8,BOA,The app is always down for maintenance. I can never access my account.,app maintenance access account,0.0,neutral,"['Account Access Issues', 'App Stability & Reliability']","['maintenance access', 'maintenance', 'access']"
+9,Dashen,Transaction history is very clear and easy to understand. Good job.,transaction history clear easy understand good job,0.8384,positive,"['Transaction Performance', 'User Interface & Experience (UI/UX)']","['understand good', 'transaction', 'understand']"
+10,CBE,The layout is a bit confusing after the latest update.,layout bit confusing late update,-0.2263,negative,['User Interface & Experience (UI/UX)'],"['update', 'bit', 'bit confusing']"
+11,BOA,A fantastic and reliable app for my banking needs.,fantastic reliable app banking need,0.5574,positive,['App Stability & Reliability'],"['reliable app', 'reliable', 'need']"
+12,Dashen,Could you please add a budgeting tool? That would be great.,add budgeting tool great,0.7506,positive,['Feature Request'],"['tool great', 'tool', 'budgeting tool']"
